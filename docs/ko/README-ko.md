@@ -78,7 +78,7 @@ dayjs().isBefore(dayjs()) // query
 
 Day.js는 국제화에 대해 많은 지원을 합니다.
 
-그러나 그것을 사용하지 않는다면, 그 누구도 당신의 빌드에 포함되지 않습니다.
+그러나 사용하지 않는다면, 그 어떤것도 당신의 빌드에 포함되진 않습니다.
 
 ```javascript
 import 'dayjs/locale/es' // load on demand
